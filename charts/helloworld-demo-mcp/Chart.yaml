@@ -1,0 +1,6 @@
+apiVersion: v2
+name: helloworld-demo-mcp
+description: A hello-world MCP server exposed over streamable HTTP
+version: 0.1.0
+appVersion: "0.1.0"
+type: application
